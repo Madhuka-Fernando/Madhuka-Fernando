@@ -18,10 +18,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Madhuka-Fernando/Madhuka-Fernando/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
 <h1 align="center">Hi 👋  I'm Madhuka Fernando</h1>
 
 ###
