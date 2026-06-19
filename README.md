@@ -18,6 +18,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Madhuka-Fernando.Madhuka-Fernando&"  />
+</div>
+
+###
+
 <h1 align="center">Hi 👋  I'm Madhuka Fernando</h1>
 
 ###
